@@ -2,9 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-If you like this project, please give it a star!
+<p>If you like this project, please give it a star!</p>
 
-<p>Click the star button at the top right corner of this page. Your support is greatly appreciated!</p>
 <a href="https://github.com/niloufardelfan/Cross-Validation-in-AI-for-Medical-Data" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
 </a>
