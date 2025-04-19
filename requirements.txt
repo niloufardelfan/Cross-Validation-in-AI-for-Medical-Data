@@ -1,0 +1,6 @@
+numpy>=1.18.0
+pandas>=1.0.0
+scikit-learn>=1.0.0 # Ensure a recent version for latest CV features
+matplotlib>=3.0.0
+seaborn>=0.10.0
+notebook>=6.0.0 # Or jupyterlab
