@@ -73,6 +73,12 @@ We cover the fundamental "why" behind CV (overfitting, generalization), explore 
     ```
     Navigate through the `notebooks/` directory in the Jupyter interface that opens in your browser. Run the cells in each notebook sequentially to see the demonstrations.
 
+##Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for bugs, suggestions, or improvements.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Citation
 
 If you use the code or concepts from this repository in your research or article, please cite it as follows (example format - consider using Zenodo for a DOI):
