@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+If you like this project, please give it a star!
+
+![GitHub stars](https://img.shields.io/github/stars/niloufardelfan/Cross-Validation-in-AI-for-Medical-Data.svg?style=social)
+
 ## Overview
 
 This repository provides a comprehensive guide and practical Python implementations for various Cross-Validation (CV) techniques used in Artificial Intelligence (AI) and Machine Learning (ML). It places a special emphasis on the critical role and correct application of CV in the context of **medical data analysis**, where robustness, reliability, and avoiding information leakage are paramount.
