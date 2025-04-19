@@ -49,8 +49,8 @@ We cover the fundamental "why" behind CV (overfitting, generalization), explore 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<YourUsername>/<YourRepoName>.git
-    cd <YourRepoName>
+    git clone https://github.com/niloufardelfan/Cross-Validation-in-AI-for-Medical-Data.git
+    cd <Cross-Validation-in-AI-for-Medical-Data>
     ```
 
 2.  **Set up a virtual environment (Recommended):**
